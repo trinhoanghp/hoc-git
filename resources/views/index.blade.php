@@ -11,6 +11,7 @@
 
 
 @section('main')
+<div>hello</div>
 <div class="container">
     <div class="row">
       <div class="col-md-3 col-md-4 col-sm-3 hidden-xs"><div class="side-banner"><img src="http://htmldemo.magikthemes.com/ecommerce/linea-html-template/blue/images/side-banner.jpg" alt="banner"></div></div>
@@ -45,8 +46,8 @@
   <section class="main-container col2-left-layout">
     <div class="container">
       <div class="row">
-        <div class="col-md-9 col-sm-8 col-xs-12 col-sm-push-4 col-md-push-3"> 
-          
+        <div class="col-md-9 col-sm-8 col-xs-12 col-sm-push-4 col-md-push-3">
+
           <!-- promotion banner -->
           <div class="promotion-banner">
             <div class="row">
@@ -54,8 +55,8 @@
               <div class="col-lg-7 col-sm-7"><a href="#"><img alt="" src="http://htmldemo.magikthemes.com/ecommerce/linea-html-template/blue/images/home-banner2.jpg"></a></div>
             </div>
           </div>
-          <div class="content-page"> 
-            
+          <div class="content-page">
+
             <!-- featured category -->
             <div class="category-product">
               <div class="navbar nav-menu">
@@ -71,12 +72,12 @@
                     <li><a data-toggle="tab" href="#tab-5">Accessories</a></li>
                   </ul>
                 </div>
-                <!-- /.navbar-collapse --> 
+                <!-- /.navbar-collapse -->
               </div>
               <div class="product-bestseller">
                 <div class="product-bestseller-content">
                   <div class="product-bestseller-list">
-                    <div class="tab-container"> 
+                    <div class="tab-container">
                       <!-- tab product -->
                       <div class="tab-panel active" id="tab-1">
                         <div class="category-products">
@@ -941,7 +942,7 @@
                           </div>
                         </div>
                       </div>
-                      <!-- End Item --> 
+                      <!-- End Item -->
                       <!-- Item -->
                       <div class="item">
                         <div class="item-inner">
@@ -1128,7 +1129,7 @@
                           </div>
                         </div>
                       </div>
-                      <!-- End Item --> 
+                      <!-- End Item -->
                     </div>
                   </div>
                 </div>
@@ -1218,7 +1219,7 @@
                         </div>
                       </div>
                     </div>
-                    <!-- End Item --> 
+                    <!-- End Item -->
                     <!-- Item -->
                     <div class="item">
                       <div class="item-inner">
@@ -1405,7 +1406,7 @@
                         </div>
                       </div>
                     </div>
-                    <!-- End Item --> 
+                    <!-- End Item -->
                   </div>
                 </div>
               </div>
@@ -1532,7 +1533,7 @@
       </div>
     </div>
   </section>
-  
+
   <!-- Latest Blog -->
   <div class="container">
     <div class="row">
@@ -1569,5 +1570,5 @@
       </div>
     </div>
   </div>
-  <!-- End Latest Blog --> 
+  <!-- End Latest Blog -->
 @stop()
